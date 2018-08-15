@@ -9,10 +9,6 @@
         {
           "id": 2,
           "username": "auer"
-        },
-        {
-          "id": 8,
-          "username": "goodwin"
         }
       ]
     },
@@ -29,10 +25,6 @@
         {
           "id": 4,
           "username": "batz"
-        },
-        {
-          "id": 6,
-          "username": "steuber"
         }
       ]
     },
@@ -158,7 +150,8 @@
           "id": 5,
           "username": "king"
         }
-      ]
+      ],
+      "users": []
     },
     {
       "id": 10,
@@ -173,6 +166,12 @@
         {
           "id": 10,
           "username": "macejkovic"
+        }
+      ],
+      "users": [
+        {
+          "id": 1,
+          "username": "pouros"
         }
       ]
     }
