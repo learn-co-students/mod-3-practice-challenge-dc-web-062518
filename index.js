@@ -40,7 +40,6 @@ function bookProfile(event) {
   ul.id = `list-${id}`
   likeButton.innerText = "Like This Book!"
   likeButton.id = `button-${id}`
-  debugger
 
   fetch(`http://localhost:3000/books/${id}`)
   .then(response => response.json())
